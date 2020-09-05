@@ -12,9 +12,7 @@ Server ping information and custom protocal.
 <br>
 Custom kick messages (for example the "You have lost connection to the server" message you see on the server 2b2t.org).
 <br>
-Server down message
-<br>
-Instead of showing an error saying the server is down you can customize this message to whatever message you want.
+Server down message Instead of showing an error saying the server is down you can customize this message to whatever message you want.
 <br>
 Auth server support for cracked (offline mode: false) servers. (This is causes some security issues for example: The queue goes first then auth and main.).
 
