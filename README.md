@@ -7,7 +7,8 @@ XeraBungeeQueue is a basic and easy to use queue plugin designed for anarchy and
 Tablist (a much more easy to use tablist compared to the old one)
 <br>
 Server ping information and custom protocal.
-![Server ping with version](https://cdn.discordapp.com/attachments/722198099132678148/751841332691075144/unknown.png)
+<br>
+![Server ping with version](https://cdn.discordapp.com/attachments/722198099132678148/751842799682453606/unknown.png)
 <br>
 Custom kick messages (for example the "You have lost connection to the server" message you see on the server 2b2t.org).
 <br>
